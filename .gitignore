@@ -1,0 +1,65 @@
+# macOS system files
+.DS_Store
+
+# Environment directory
+env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Git directory
+.git/
+
+# Docker files
+docker/
+
+# Environment configuration file
+.env
+
+# Other common unnecessary files
+*.log
+*.tmp
+*.swp
+*.swo
+
+# Node.js dependencies (if using Node.js)
+node_modules/
+
+# Python bytecode
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE or editor directories and files
+.vscode/
+.idea/
+
+# Operating system files
+Thumbs.db
+ehthumbs.db
+
+# Log files
+*.log
+*.out
+
+# Build directories (for various languages/tools)
+dist/
+build/
+*.egg-info/
+*.tox/
+*.nox/
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+
+# For macOS: Finder specific files
+*.DS_Store
+
+# For macOS: Apple Trash directory
+.Trashes/
+
+# For Linux: Desktop Environment files
+.xfce4/
+
